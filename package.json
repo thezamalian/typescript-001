@@ -1,0 +1,15 @@
+{
+  "devDependencies": {
+    "typescript": "^4.5.5"
+  },
+  "name": "typescript",
+  "description": "1. What & Why\r 2. Environmental setup\r 3. Declarations (Types: string, number, array, any, null, undefined, boolean)\r 4. Types\r 5. Functions (parameter & return types)\r 6. Interface & Enumeration\r 7. Generic (not defined before)",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
